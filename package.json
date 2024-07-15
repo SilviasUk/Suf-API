@@ -1,0 +1,23 @@
+{
+  "name": "suf-api",
+  "version": "1.0.0",
+  "description": "Fivem API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilviasUk/Suf-API.git"
+  },
+  "author": "Silvias.uk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SilviasUk/Suf-API/issues"
+  },
+  "homepage": "https://github.com/SilviasUk/Suf-API#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "node-fetch": "^3.3.2"
+  }
+}
